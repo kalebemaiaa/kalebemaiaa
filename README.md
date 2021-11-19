@@ -15,3 +15,4 @@ Atualmente sou um estudante. Estou aprendendo python, entretanto, continuo ampli
 
 ##
  
+![Snake animation](https://github.com/kalebemaiaa/kalebemaiaa/blob/output/github-contribution-grid-snake.svg)
