@@ -1,6 +1,6 @@
 ## Olá, meu nome é Kalebe Felipe👋👋
 
-Atualmente sou um estudante. Estou ampliando meus conhecimentos em **html**, **css** e **javascript**
+Atualmente sou um estudante graduando em Matemática Aplicada pela Fundação Getúlio Vargas e graduando em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera. Estou ampliando meus conhecimentos em **html**, **css**, **javascript** e **python**
 ##
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kalebemaiaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebemaiaa&theme=radical">
